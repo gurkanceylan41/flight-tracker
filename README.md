@@ -23,7 +23,8 @@ A flight tracking application that displays real-time flight information on an i
 - React Paginate
 - Moment
 
-Screen Gif: 
+# Screen Gif: 
+
 ![flight](https://github.com/user-attachments/assets/0d2f7c83-d831-49fb-b6f6-c4213d5c2640)
 
 
